@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AtherEnergy</string>
+    <string name="switch_text">NIGHT MODE</string>
+    <string name="enter_any_text">ENTER ANY TEXT</string>
+</resources>
